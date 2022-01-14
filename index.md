@@ -27,6 +27,7 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 
 I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_)
 
+I am a _"normal"_ dog person so I love to spend time with dogs.
 
 ## Contact me
 
