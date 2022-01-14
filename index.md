@@ -1,4 +1,4 @@
-## Welcome to Minh Ngoc Le's Pages
+# Welcome to Minh Ngoc Le's Pages
 
 I am a graduate student in Astrophysics. 
 
@@ -9,7 +9,7 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 
 (pronounce: _ŋok_, with _"ŋ"_ likes _"ng"_ in the word _"sing"_).
 
-### Education
+# Education
 
 - BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
