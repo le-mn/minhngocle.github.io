@@ -9,7 +9,7 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 
 (pronounce: _ŋok_, with _"ŋ"_ likes _"ng"_ in the word _"sing"_).
 
-# Education
+## Education
 
 - BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
@@ -17,16 +17,19 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 [Link](url) and ![Image](src)
 
 
-### Research
+## Research
+
+- Cosmology
+- Large Scale Structure
+
+## Schools, Workshops & Conferences
 
 
-### Schools, Workshops & Conferences
+## In my free time
+
+I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_)
 
 
-### In my free time
-
-
-
-### Contact me
+## Contact me
 
 Drop me an email to [lmngoc1509@gmail.com]
