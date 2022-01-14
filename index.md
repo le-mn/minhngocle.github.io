@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/le-mn/minhngocle.github.io
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Last name: Le, middle name: Minh, first name: Ngoc. 
-In Vietnamese: Lê Minh Ngọc
+In Vietnamese: **Lê Minh Ngọc**
 
-Vietnamese's name is written in order: last name + middle name + first name.  We call others by their first names, that's why I prefer people to call me by my first name  "Ngoc" 
+Vietnamese's name is written in order: last name + middle name + first name.  We call others by their first names, that's why I prefer people to call me by my first name  _"Ngoc"_ 
 
-(pronounce: ŋok, with "ŋ" likes "ng" in the word "sing").
+(pronounce: _ŋok_, with _"ŋ"_ likes _"ng"_ in the word _"sing"_).
 
 ### Markdown
 
