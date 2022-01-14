@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Last name: Le, middle name: Minh, first name: Ngoc. 
 In Vietnamese: Lê Minh Ngọc
-Vietnamese's name is written in order: last name + middle name + first name.  In my country, people always call others by their first names, that's why I prefer people to call me by my first name  "Ngoc" 
+
+Vietnamese's name is written in order: last name + middle name + first name.  We call others by their first names, that's why I prefer people to call me by my first name  "Ngoc" 
+
 (pronounce: ŋok, with "ŋ" likes "ng" in the word "sing").
 
 ### Markdown
