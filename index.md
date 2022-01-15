@@ -2,14 +2,12 @@
 
 I am a graduate student in Astrophysics who interested in the dark components of the universe. 
 
-My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_).
+My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_) or you can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
 
 ## Education
 
 - BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
-
-[Link](url) and ![Image](src)
 
 ## Research
 
