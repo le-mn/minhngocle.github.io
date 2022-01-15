@@ -2,10 +2,7 @@
 
 I am a graduate student in Astrophysics who interested in the dark components of the universe. 
 
-My name contains last name: _Le_, middle name: _Minh_ and first name: _Ngoc_. 
-In Vietnamese: **Lê Minh Ngọc**.
-
-Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_).
+My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_).
 
 ## Education
 
