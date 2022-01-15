@@ -20,15 +20,14 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 - Large Scale Structure
 
 ## CV
-More about my background study, academic activities (schools, workshops, conferences,...) can be found in my CV.
-[https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing]
+More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing).
 
 ## In my free time
 
 - I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_).
-- As a _"normal"_ dog person, I love to spend my free time with dogs.
-- As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I decided to write this blog [https://life-of-a-grad-student.blogspot.com/] and would like to share what I learned and experienced, especially about how to improve study/research efficiency and to strengthen mental health under academic pressure.
+- As a typical dog person, I love to spend my free time with dogs.
+- As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I would like to share what I learned and experienced, especially about how to improve study/research efficiency and to strengthen mental health under academic pressure  in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
 
-Drop me an email to [lmngoc1509@gmail.com]
+Drop me an [email](lmngoc1509@gmail.com).
