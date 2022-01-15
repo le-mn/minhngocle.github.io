@@ -25,9 +25,9 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 
 ## In my free time
 
-I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_)
-
-As a _"normal"_ dog person, I love to spend my free time with dogs.
+- I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_).
+- As a _"normal"_ dog person, I love to spend my free time with dogs.
+- As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I decided to write this blog [https://life-of-a-grad-student.blogspot.com/] and would like to share what I learned and experienced, especially about how to improve study/research efficiency and to strengthen mental health under academic pressure.
 
 ## Contact me
 
