@@ -26,7 +26,7 @@ More about my background study, academic activities (schools, workshops, confere
 
 - I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_).
 - As a typical dog person, I love to spend my free time with dogs.
-- As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I would like to share what I learned and experienced, especially about how to improve study/research efficiency and to strengthen mental health under academic pressure  in [this blog](https://life-of-a-grad-student.blogspot.com/).
+- I also love writing - to store my thought, experience and even the knowledge I learned from online courses/sources. As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I would like to share what I learned and experienced, especially about how to improve study/research efficiency and to strengthen mental health under academic pressure  in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
 
