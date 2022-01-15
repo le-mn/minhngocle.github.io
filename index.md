@@ -30,4 +30,4 @@ More about my background study, academic activities (schools, workshops, confere
 
 ## Contact me
 
-Drop me an [email](lmngoc1509@gmail.com).
+Drop me an email to lmngoc1509(at)gmail.com
