@@ -1,9 +1,9 @@
-# Welcome to Minh Ngoc Le's Pages
+# Welcome to Minh Ngoc Le's Page
 
-I am a graduate student in Astrophysics. 
+I am a graduate student in Astrophysics who interested in the dark components of the universe. 
 
 My name contains last name: _Le_, middle name: _Minh_ and first name: _Ngoc_. 
-In Vietnamese: **Lê Minh Ngọc**
+In Vietnamese: **Lê Minh Ngọc**.
 
 Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_).
 
@@ -13,7 +13,7 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 [Link](url) and ![Image](src)
-
+![https://photos.app.goo.gl/1ZmXBpwywXLZhWsf8]
 
 ## Research
 
