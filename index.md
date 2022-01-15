@@ -20,7 +20,7 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 - Large Scale Structure
 
 ## CV
-
+More about my background study, academic activities (schools, workshops, conferences,...) can be found in my CV.
 [https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing]
 
 ## In my free time
