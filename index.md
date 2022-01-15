@@ -13,7 +13,7 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ![Image](How can we see.png)
 
-Large Scale Structure
+I am interested in the dark components: _Dark Energy_ which explains the expanding universe, _Dark Matter_ which has gravitational interactions with baryonic matter to form the structure we see nowadays. My current research focuses on using dark matter halos correlation functions to understand Large-Scale Structure.  
 
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing).
