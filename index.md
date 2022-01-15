@@ -13,15 +13,15 @@ Vietnamese's name is written in order: last name + middle name + first name.  We
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 [Link](url) and ![Image](src)
-![https://photos.app.goo.gl/1ZmXBpwywXLZhWsf8]
 
 ## Research
 
 - Cosmology
 - Large Scale Structure
 
-## Schools, Workshops & Conferences
+## CV
 
+[https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing]
 
 ## In my free time
 
