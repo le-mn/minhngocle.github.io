@@ -11,7 +11,7 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ## Research
 
-![Image](/gh-pages/How can we see.PNG)
+![Image](../gh-pages/How can we see.PNG)
 
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing).
