@@ -18,6 +18,8 @@ My research interests focus on the nature of _Dark Matter_ and _Dark Energy_ , w
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing).
 
+[my CV](Minh_Ngoc_LE_CV.pdf)
+
 ## In my free time
 
 - I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
