@@ -16,9 +16,7 @@ My research interests focus on the nature of _Dark Matter_ and _Dark Energy_ , w
 - MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 ## CV
-More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](https://drive.google.com/file/d/1xefyu0NrpB174s0iomoqaOheHzOX4cFE/view?usp=sharing).
-
-[my CV](Minh_Ngoc_LE_CV.pdf)
+More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
 
 ## In my free time
 
