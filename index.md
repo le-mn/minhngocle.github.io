@@ -8,7 +8,7 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ![Image](How can we see.png)
 
-My research focuses on the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I am currently studying dark matter halos correlation functions to understand our universe on large scales (Large-Scale Structure).  
+My research focuses on the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I am studying dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos. By using peculiar velocity, we can extract information about the mass distribution, growth rate and also the matter density of the universe.  
 
 ## Education
 
@@ -20,10 +20,10 @@ More about my background study, academic activities (schools, workshops, confere
 
 ## In my free time
 
-- I enjoy singing and playing my Ukulele (which named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
+- I enjoy singing while playing my Ukulele (which named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
 - As a typical dog person, I love playing with dogs and can spend hours talking to them.
 - I also love writing - which I call _"talking to myself"_ - to store my thought, experience and what I learned from open courses. As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I would like to share what I collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
 
-Drop me an email to lmngoc1509(at)gmail.com
+Find anything interesting? Drop me an email to lmngoc1509(at)gmail.com
