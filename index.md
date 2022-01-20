@@ -1,14 +1,14 @@
 # Welcome to Minh Ngoc Le's Page
 
-I am a graduate student in Astrophysics who interested in the dark components of the universe. 
+I am a graduate student in Astrophysics who is in love with the dark components of the universe. 
 
-My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer people to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_) or you can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
+My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_) or you can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
 
 ## Research
 
 ![Image](How can we see.png)
 
-My research focuses on the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I am studying dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos. By using peculiar velocity, we can extract information about the mass distribution, growth rate and also the matter density of the universe.  
+I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. Now I am studying dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos. By using peculiar velocity, we can extract information about the mass distribution, growth rate and also the matter density of the universe.  
 
 ## Education
 
