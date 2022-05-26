@@ -8,7 +8,10 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ![Image](How can we see.png)
 
-I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. Now I am studying dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos. By using peculiar velocity, we can extract information about the mass distribution, growth rate and also the matter density of the universe.  
+I am also working on the formation of primordial globula clusters. We use the extended Press-Schechter method to trace how primordial globular cluster form and distribute in their dark matter halos.
+
+Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did a small project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+ 
 
 ## Education
 
