@@ -8,7 +8,7 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ![Image](NGC121.jpg)
 
-I am working on my master thesis about the formation of primordial globula clusters (GC). We use the extended Press-Schechter method to trace how primordial globular cluster form in their dark matter halos. The above image shows the 10 billion years old GC, taken using Hubble’s Advanced Camera for Surveys (ACS).
+I am working on my master thesis about the formation of primordial globula clusters (GC). We use the extended Press-Schechter method to trace how primordial globular cluster form in their dark matter halos. The above image shows the 10 billion years old GC, taken using Hubble’s Advanced Camera for Surveys (Image Credit: ESA/Hubble & NASA).
 
 ![Image](How can we see.png)
 
