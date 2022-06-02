@@ -6,10 +6,11 @@ My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is writte
 
 ## Research
 
+![Image](NGC121.jpg)
+
+I am working on my master thesis about the formation of primordial globula clusters (GC). We use the extended Press-Schechter method to trace how primordial globular cluster form in their dark matter halos. The above image shows the 10 billion years old GC, taken using Hubble’s Advanced Camera for Surveys (ACS).
+
 ![Image](How can we see.png)
-
-I am working on my master thesis about the formation of primordial globula clusters. We use the extended Press-Schechter method to trace how primordial globular cluster form in their dark matter halos.
-
 Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it. In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics.
  
 
