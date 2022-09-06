@@ -12,13 +12,15 @@ I am working on my master thesis about the formation of _primordial globula clus
 
 ![Image](How can we see.png)
 
-Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it. In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics.
+Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+
+In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics.
  
 
 ## Education
 
-- 2014-2018 BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
-- 2020-now MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
+- (2014-2018) BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
+- (2020-now) MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
