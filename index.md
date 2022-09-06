@@ -17,8 +17,8 @@ Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Ener
 
 ## Education
 
-- BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
-- MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
+- 2014-2018 BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
+- 2020-now MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
