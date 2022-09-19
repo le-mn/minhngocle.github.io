@@ -22,6 +22,16 @@ In my bachelor thesis, I studied the inflation models with potential due to the 
 - (2014-2018) BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
 - (2020-now) MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
+## Publications and presentations
+
+- (2020.01) Seminar: Velocity correlation function: discrepancies between simulation and theory prediction, at International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
+
+- (2019.12) Lunch talk: Velocity correlation function: discrepancies between simulation and theory prediction, at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan.
+
+- (2019.08) Oral presentation: Inflation via Higgs-Dilaton potential in Two-Time Physics, at 15th Rencontres du Vietnam: Cosmology 2019, International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
+ 
+ - (2019.02) Poster presentation: Inflation Scenarios via Dilaton in Two-Time Physics, at 2019 Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Yukawa Institute for Theoretical Physics, Kyoto University, Japan.	
+
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
 
