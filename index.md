@@ -38,7 +38,10 @@ More about my background study, academic activities (schools, workshops, confere
 ## In my free time
 
 - I enjoy singing while playing my Ukulele (which named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
-- As a typical dog person, I love playing with dogs and can spend hours talking to them.
+- As a typical dog person, I love playing with dogs and can spend hours talking to them. Attached is the photo of my certificate for volunteering taking care of dogs in NTHU campus (I would love to share you more dogs' photos).
+![Image](chiao.jpg)
+
+
 - I also love writing - the way I _"talk to myself"_ and store my thought, experience and what I learned from open courses. As a graduate student who usually struggles with academic problems, I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing obstacles like I did. Therefore, I would like to share what I collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
