@@ -46,4 +46,4 @@ More about my background study, academic activities (schools, workshops, confere
 
 ## Contact me
 
-Find anything interesting? Drop me an email to lmngoc1509(at)gmail.com
+Find anything interesting? Drop me an email to _lmngoc1509(at)gmail.com_
