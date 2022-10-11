@@ -2,7 +2,11 @@
 
 I am a graduate student in Astrophysics who is in love with the dark components of the universe. 
 
-My full name is (in Vietnamese) **Lê Minh Ngọc**. Vietnamese's name is written in order: last name + middle name + first name.  We call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_) or you can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
+My full name is (in Vietnamese) **Lê Minh Ngọc**. 
+
+Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_). 
+
+You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
 
 ## Research
 
@@ -37,7 +41,7 @@ More about my background study, academic activities (schools, workshops, confere
 
 ## In my free time
 
-- I enjoy singing while playing my Ukulele (which named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
+- I enjoy singing very much. Besides, I am also a Ukulele beginner (mine named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
 - As a typical dog person, I love playing with dogs and can spend hours talking to them. Attached is the photo of my certificate for volunteering taking care of dogs in NTHU campus. The dog in the certificate named ChiaoChiao, she is my most favorite one! (I would love to share you more dogs' photos).
 ![Image](chiao.jpg)
 
