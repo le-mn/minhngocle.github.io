@@ -2,7 +2,7 @@
 
 I am a graduate student in Astrophysics who is in love with the dark components of the universe. 
 
-My full name is (in Vietnamese) **Lê Minh Ngọc**. 
+My full name is **Lê Minh Ngọc** (in Vietnamese). 
 
 Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_). 
 
