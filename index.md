@@ -12,7 +12,7 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 - 
 ![Image](m15-closer.jpg)
 
-This is an old GC - M15 (Image Credit: ESA/Hubble & NASA).
+An image of an old, beautiful GC - Messier 15, which was discovered in 1746 (Image Credit: ESA/Hubble & NASA).
 
 ![Image](How can we see.png)
 
