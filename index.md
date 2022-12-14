@@ -8,10 +8,11 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 
 ## Research
-
+- I am working on my master thesis about the formation of _primordial globula clusters_ (GCs). We use the extended Press-Schechter method to trace how primordial GCs formed in their dark matter halos. 
+- 
 ![Image](m15-closer.jpg)
 
-- I am working on my master thesis about the formation of _primordial globula clusters_ (GCs). We use the extended Press-Schechter method to trace how primordial GCs formed in their dark matter halos. The above image shows an old GC - M15 (Image Credit: ESA/Hubble & NASA).
+This is an old GC - M15 (Image Credit: ESA/Hubble & NASA).
 
 ![Image](How can we see.png)
 
