@@ -8,22 +8,22 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 
 ## Research
-- I am working on my master project about the formation of _primordial globula clusters_ (GCs). Primordial GC formation was first introduced by Peeble & Dickie (1968). They proposed a GC formation process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation in their dark matter halos, to get the number of GCs in DM halos in different masses and compare to observational data.  
+- I am working on my master project about _primordial globula clusters_ (GCs) formation, which was first introduced by Peeble & Dickie (1968). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
 
 ![Image](m15-closer.jpg)
 
-Image of an old, beautiful GC - Messier 15, which was discovered in 1746 (Image Credit: ESA/Hubble & NASA).
+The image above shows an old, beautiful GC named Messier 15, which is one of the oldest known GC. (Image Credit: ESA/Hubble & NASA).
 
 ![Image](How can we see.png)
 
-- Alongside to GC project, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+- Alongside to GC project, I am interested in the nature of _Dark Matter_ and _Dark Energy_. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating DM halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
 
 - In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to see if higher dimensional factor could affect the inflation process or not.
  
 
 ## Education
 
-- (2014-2018) BSc. in Physics, The University of Science - Vietnam National University in Ho Chi Minh City;
+- (2014-2018) BSc. in Physics (major in Theoretical Physics), The University of Science - Vietnam National University in Ho Chi Minh City, Vietnam;
 - (2020-now) MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
 
 ## Publications and presentations
@@ -46,7 +46,7 @@ More about my background study, academic activities (schools, workshops, confere
 ![Image](chiao.jpg)
 
 
-- I also love writing - the way I _"talk to myself"_ and store my thought, experience and what I learned from open courses. As any graduate student, I usually faces with academic problems (stress, lose motivation, don't know how to work/study efficiently). I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing the same obstacles like I did. Therefore, I would like to share what I collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
+- I also love writing - the way I _"talk to myself"_ and store my thought, experience and what I learned from open courses. As any graduate student, I usually faces with academic problems (stress, lose motivation, don't know how to work/study efficiently). I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing the same obstacles like I did. Therefore, I would like to share to public what I've collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
 
