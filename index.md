@@ -8,7 +8,7 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 
 ## Research
-- I am working on my master thesis about the formation of _primordial globula clusters_ (GCs). We use the extended Press-Schechter method to trace how primordial GCs formed in their dark matter halos. 
+- I am working on my master project about the formation of _primordial globula clusters_ (GCs). Primordial GC formation was first introduced by Peeble & Dickie (1968). They proposed a GC formation process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation in their dark matter halos, to get the number of GCs in DM halos in different masses and compare to observational data.  
 
 ![Image](m15-closer.jpg)
 
@@ -16,9 +16,9 @@ Image of an old, beautiful GC - Messier 15, which was discovered in 1746 (Image 
 
 ![Image](How can we see.png)
 
-- Alongside to that, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+- Alongside to GC project, I am interested in the nature of _Dark Matter_ and _Dark Energy_ , which are dominant components of the universe: _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating dark matter(DM) halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
 
-- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. 
+- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to see if higher dimensional factor could affect the inflation process or not.
  
 
 ## Education
