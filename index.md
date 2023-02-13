@@ -10,7 +10,8 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 ## Research
 - I am working on my master project about _primordial globula clusters_ (GCs) formation, which was first introduced by Peeble & Dickie (1968). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
 
-You can find my poster [here](poster (5).pdf)
+Some results of this work already be presented at the [IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
+FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). You can find my poster [here](poster (5).pdf)
 
 ![Image](m15-closer.jpg)
 
