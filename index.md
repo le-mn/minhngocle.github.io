@@ -4,7 +4,7 @@ I am a graduate student in Astrophysics who is in love with the dark components 
 
 My full name in Vietnamese is **Lê Minh Ngọc**. You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
 
-Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"sing"_). 
+Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ as _"ng"_ in the word _"si**ng**"_). 
 
 
 ## Research interests
@@ -21,7 +21,7 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 - Alongside to GC project, I am interested in the nature of _Dark Matter_ and _Dark Energy_. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating DM halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
 
-- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to see if higher dimensional factor could affect the inflation process or not.
+- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to see whether higher dimensional factor could affect the inflation process. We found no evidence for the two scalar fields in Two-Time could run inflation.  
  
 
 ## Education
