@@ -48,7 +48,7 @@ More about my background study, academic activities (schools, workshops, confere
 ## In my free time
 
 - I enjoy singing very much. Besides, I am also a Ukulele beginner (mine named _"Erling"_, means _"tweenty"_ since I brought _him_ home on the last day of 2020, in my 20s year-old).
-- As a typical dog person, I love playing with dogs and can spend hours talking to them. Attached is the photo of my certificate for volunteering taking care of dogs in NTHU campus. The dog in the certificate named ChiaoChiao, she is my most favorite one! (I would love to share you more dogs' photos).
+- As a typical dog person, I love playing with dogs and can spend hours talking to them. Attached is the photo of my certificate for volunteering taking care of dogs in NTHU campus. The dog in the certificate named ChiaoChiao, she is my most favorite one! (I would love to share you more [dogs' photos](https://www.instagram.com/schrodinger_dogs/)).
 ![Image](chiao.jpg)
 
 
