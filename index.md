@@ -26,8 +26,8 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 ## Education
 
-- (2014-2018) BSc. in Physics (major in Theoretical Physics), The University of Science - Vietnam National University in Ho Chi Minh City, Vietnam;
 - (2020-now) MSc. in Astronomy (expected), National Tsing Hua University, Taiwan. 
+- (2014-2018) BSc. in Physics (major in Theoretical Physics), The University of Science - Vietnam National University in Ho Chi Minh City, Vietnam.
 
 ## Publications and presentations
 
