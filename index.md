@@ -31,7 +31,7 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 ## Publications and presentations
 
-- (2023.02) Poster: _ Primordial Globular Cluster models could explain the globular cluster number --  halo mass relation_, at IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
+- (2023.02) Poster: _Primordial Globular Cluster models could explain the globular cluster number --  halo mass relation_, at IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
 
 - (2020.01) Seminar: _Velocity correlation function: discrepancies between simulation and theory prediction_, at International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
