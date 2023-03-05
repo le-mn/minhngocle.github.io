@@ -8,20 +8,20 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 
 ## Research interests
-- I am working on my master project about _primordial globula clusters_ (GCs) formation, which was first introduced by Peeble & Dickie (1968). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
+- I am working on my master project about _primordial globula clusters_ (GCs) formation, which was first introduced by Peeble (1984). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
 
 Some results of this work already be presented at the [IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). You can find my poster [here](poster (5).pdf).
 
 ![Image](m15-closer.jpg)
 
-The image above shows an old, beautiful GC named Messier 15, which is one of the oldest known GC. (Image Credit: ESA/Hubble & NASA).
+The image above shows an old, beautiful GC named Messier 15, which is one of the oldest known GCs. (Image Credit: ESA/Hubble & NASA).
 
 ![Image](How can we see.png)
 
-- Alongside to GC project, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating DM halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+- Alongside to GC, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating DM halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
 
-- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to see whether higher dimensional factor could affect the inflation process. We found no evidence for the two scalar fields in Two-Time could run inflation.  
+- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to test whether higher dimensional factor could affect the inflation process. We found no evidence for the two scalar fields in Two-Time could run inflation.  
  
 
 ## Education
