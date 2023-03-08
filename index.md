@@ -1,6 +1,6 @@
 # Hello, I am Minh Ngoc Le
 
-I am a graduate student in Astrophysics with a life's purpose is uncovering the nature of dark matter and dark energy.
+I am graduate student in Astrophysics, ON THE DARK SIDE.
 
 My full name in Vietnamese is **Lê Minh Ngọc**. You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
 
@@ -12,8 +12,8 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 **The dark side**: dark matter & dark energy.
 I am curious about the nature of dark matter: what is it made from? And on dark energy's nature, whether dark energy or modified gravity run the acceleration of our universe.
 
-**THe bright side**: galaxy formation & evolution, globular cluster(GC).
-I am interested in finding the answers for the process which formed GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
+**THe bright side**: galaxy formation & evolution, globular cluster (GC).
+I am interested in finding the answers for: the process which formed GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
 
 ## Research projects
 
