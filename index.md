@@ -8,7 +8,16 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 
 ## Research interests
-- I am working on my master project about _primordial globula clusters_ (GCs) formation, which was first introduced by Peeble (1984). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
+
+**The dark side**: dark matter & dark energy.
+I am curious about the nature of dark matter: what is it made from? And on dark energy's nature, whether dark energy or modified gravity run the acceleration of our universe.
+
+**THe bright side**: galaxy formation & evolution, globular cluster(GC).
+I am interested in finding the answers for the process which formed GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
+
+## Research projects
+
+- I am working on my master project about _primordial globula clusters_ formation, which was first introduced by Peeble (1984). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
 
 Some results of this work already be presented at the [IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). You can find my poster [here](poster (5).pdf).
