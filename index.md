@@ -12,8 +12,8 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 **The dark side**: dark matter & dark energy.
 I am curious about the nature of dark matter: what is it made from? And on dark energy's nature, whether dark energy or modified gravity run the acceleration of our universe.
 
-**The bright side**: galaxy formation & evolution, globular cluster (GC).
-I am interested in finding the answers for: the process which formed GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
+**The bright side**: galaxy formation & evolution, globular cluster (GC) and star formation.
+I am interested in finding the answers for: the process which formed stars and GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
 
 ## Research projects
 
