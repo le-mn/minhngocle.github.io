@@ -61,7 +61,7 @@ More about my background study, academic activities (schools, workshops, confere
 ![Image](chiao.jpg)
 
 
-- I also love writing - the way I _"talk to myself"_ and store my thought, experience and what I learned from open courses. As any graduate student, I usually faces with academic problems (stress, lose motivation, don't know how to work/study efficiently). I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing the same obstacles like I did. Therefore, I would like to share to public what I've collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
+- I also love writing - the way I _"talk to myself"_ and store my thought, experience and what I learned from open courses. As any graduate student, I usually faces with academic problems (stress, lose motivation, don't know how to work/study efficiently). I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing the same obstacles like I did. Therefore, I would like to share what I've collected, especially about how to self-motivate and to strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
 ## Contact me
 
