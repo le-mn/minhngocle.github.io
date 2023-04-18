@@ -6,6 +6,7 @@ My full name in Vietnamese is **Lê Minh Ngọc**. You can find how to pronounce
 
 Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). 
 
+[About page](aboutme.html)
 
 ## Research interests
 
