@@ -40,6 +40,8 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 ## Publications and presentations
 
+- (2023.05) Poster: _Primordial Globular Cluster models could explain the relation between globular cluster number --  halo mass, at The 2023 Scientific Assembly of the Astronomical Society of the Republic of China (ASROC2023), in Kaohsiung, Taiwan.
+
 - (2023.02) Poster: _Primordial Globular Cluster models could explain the globular cluster number --  halo mass relation_, at IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
 
