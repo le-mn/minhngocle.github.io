@@ -28,7 +28,7 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 ![Image](How can we see.png)
 
-- Alongside to GC, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project on calculating DM halos correlation functions, especially the peculiar velocity of DM halos, and wrote my own code to calculate it.
+- Alongside to GC, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proved to be dominant components of our universe. _Dark Energy_ contributes on the expanding of universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project at ASIAA, Taiwan with Dr. Teppei Okumura and Dr. Aniket Agarwal on calculating DM halos correlation functions, using mock catalog.  By doing that project, I wrote my own code to calculate correlation function in Fortran.
 
 - In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to test whether higher dimensional factor could affect the inflation process. We found no evidence for the two scalar fields in Two-Time could run inflation.  
  
