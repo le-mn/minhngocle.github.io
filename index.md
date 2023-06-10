@@ -16,9 +16,11 @@ I am here doing my internship on studying turbulence in molecular clouds, with D
 ## Research interests
 
 **The dark side**: dark matter & dark energy.
+
 I am curious about the nature of dark matter: what is it made from? And on dark energy's nature, whether dark energy or modified gravity run the acceleration of our universe.
 
 **The bright side**: galaxy formation & evolution, globular cluster (GC) and star formation.
+
 I am interested in finding the answers for: the process which formed stars and GCs, feedbacks that affect galaxy formation, and the connection between galaxies and their host halos.
 
 ## Research projects
