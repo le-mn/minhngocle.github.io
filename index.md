@@ -7,6 +7,12 @@ My full name in Vietnamese is **Lê Minh Ngọc**. You can find how to pronounce
 Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). 
 
 
+## Where I am now
+
+I am currently at Leiden Observatory, the Netherland! (from Jun to mid Aug, 2023)
+
+I am here doing my internship on studying turbulence in molecular clouds, with Dr. Piyush Sharda and Dr. Mathilde Bourvier.
+
 ## Research interests
 
 **The dark side**: dark matter & dark energy.
@@ -17,7 +23,7 @@ I am interested in finding the answers for: the process which formed stars and G
 
 ## Research projects
 
-- I am working on my master project about _primordial globula clusters_ formation, which was first introduced by Peeble (1984). They proposed a process that GC can be formed inside their own dark matter(DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation, to get the number of GCs in DM halos at different masses, and compare to observational data.  
+- I am working on my master project with Dr. Andrew Cooper about _primordial globula clusters_ formation. Primordial GC formation hypothesis was introduced by Peeble (1984), which proposed a process that GC can be formed inside their own dark matter (DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation. We get the number of GCs in DM halos at different masses, and compare to observational data.  
 
 Some results of this work already be presented at the [IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). You can find my poster [here](poster.pdf). 
