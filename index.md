@@ -9,7 +9,7 @@ Vietnamese people's names are written in the order: last name + middle name + fi
 
 ## Where I am now
 
-I am currently at Leiden Observatory, the Netherland! (from Jun to mid Aug, 2023)
+I am currently at **Leiden Observatory**, the Netherland! (from Jun to mid Aug, 2023)
 
 I am here doing my internship on studying turbulence in molecular clouds, with Dr. Piyush Sharda and Dr. Mathilde Bouvier.
 
