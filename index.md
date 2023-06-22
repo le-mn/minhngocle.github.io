@@ -2,11 +2,10 @@
 
 I am a graduate student in Astrophysics, ON THE DARK SIDE.
 
-My full name in Vietnamese is **Lê Minh Ngọc**. You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/).
+My full name in Vietnamese is **Lê Minh Ngọc** (last name + middle name + first name). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
-Vietnamese people's names are written in the order: last name + middle name + first name.  We usually call others by their first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). 
+Vietnamese people usually call others by their first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
 
-Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
 ## Where I am now
 
@@ -74,7 +73,7 @@ More about my background study, and academic activities (schools, workshops, con
 
 - I also love writing - the way I _"talk to myself"_ and store my thought, experience, and what I learned from open courses. As any graduate student, I usually face academic problems (stress, loss of motivation, don't know how to work/study efficiently). I have been collecting knowledge and experience from senior people to cope with these issues. In the beginning, I just wanted to write things down for myself. However, I felt that may be helpful for other students who are facing the same obstacles as I did. Therefore, I would like to share what I've collected, especially about how to self-motivate and strengthen mental health under academic pressure, in [this blog](https://life-of-a-grad-student.blogspot.com/).
 
-## Contact me
+## How to find me
 
 Find anything interesting? Drop me an email to _lmngoc1509(at)gmail.com_
 
