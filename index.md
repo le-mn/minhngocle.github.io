@@ -1,8 +1,8 @@
-# Hello, I am Ngọc
+# Hello, this is Ngọc!
 
 I am a master's student in Astrophysics.
 
-My full name in Vietnamese is **Lê Minh Ngọc** (last name + middle name + first name). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
+My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
 Vietnamese people usually call others by their first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
 
@@ -17,7 +17,7 @@ I am here doing my internship on studying turbulence in molecular clouds, with D
 
 **The bright side**: 
 
-I would like to find the answers to the birth of astronomical objects of different sizes, such as stars, globular clusters, and galaxies.
+I would like to find the answers to the birth of globular clusters and galaxies.
 
 **The dark side**: 
 
@@ -63,7 +63,7 @@ FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
  - (2019.02) Poster presentation: _Inflation Scenarios via Dilaton in Two-Time Physics_, at 2019 Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Yukawa Institute for Theoretical Physics, Kyoto University, Japan.	
 
 ## CV
-More about my background study, and academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
+More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
 
 ## In my free time
 
