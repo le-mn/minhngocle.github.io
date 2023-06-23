@@ -1,6 +1,6 @@
-# Hello, I am Minh Ngoc Le
+# Hello, I am Ngọc
 
-I am a graduate student in Astrophysics, ON THE DARK SIDE.
+I am a master's student in Astrophysics.
 
 My full name in Vietnamese is **Lê Minh Ngọc** (last name + middle name + first name). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
@@ -26,8 +26,8 @@ I am very much interested in using the relationship between the bright side and 
 
 ## Research projects
 
-- I am working on my master's project with Dr. Andrew Cooper about _primordial globular cluster_ formation. The primordial GC formation hypothesis was introduced by Peeble (1984), which proposed a process that GC can be formed inside their own dark matter (DM) halos. To study that, we use the extended Press-Schechter method (with the code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation. We get the number of GCs in DM halos at different masses and compare them to observational data.  
-
+- I am working on my master's project with Dr. Andrew Cooper about _primordial globular cluster_ formation. The primordial GC formation hypothesis was introduced by Peeble (1984), which proposed that GC can form inside its own dark matter (DM) halo. To study that, we use the extended Press-Schechter method (code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation. We can reproduce the relationship between the number of GCs and DM halo mass, which agree with observational results on low-mass halos.
+  
 Some results of this work have already been presented at the [IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). You can find my poster [here](poster.pdf). 
 
