@@ -4,7 +4,7 @@ I am a master's student in Astrophysics.
 
 My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
-Vietnamese people usually call others by their first names, that's why I prefer to be called _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
+Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
 
 
 ## Where I am now
@@ -39,7 +39,7 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 - Alongside GC, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proven to be dominant components of our universe. _Dark Energy_ contributes to the expansion of the universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project at ASIAA, Taiwan with Dr. Teppei Okumura and Dr. Aniket Agarwal on calculating DM halos correlation functions, using a mock catalog.  By doing that project, I wrote my own code to calculate the correlation function in Fortran.
 
-- In my bachelor thesis, I studied the inflation models with potential due to the Higgs-Dilaton scalar fields in Two-Times Physics. We would like to test whether a higher dimensional factor could affect the inflation process. We found no evidence for the two scalar fields in Two-Time could run inflation.  
+- In my bachelor thesis, I studied the inflation caused by Higgs-Dilaton scalar fields in Two-Times Physics, with Dr. Vo Quoc Phong. We would like to test whether a higher dimensional factor could affect the inflation process. We found no evidence for the higher dimensional fields in Two-Time could run inflation.  
  
 
 ## Education
