@@ -49,18 +49,18 @@ The image above shows an old, beautiful GC named Messier 15, which is one of the
 
 ## Publications and presentations
 
-- (2023.05) Poster: _Primordial Globular Cluster models could explain the relation between globular cluster number -- dark matter halo mass_, at The 2023 Scientific Assembly of the Astronomical Society of the Republic of China (ASROC2023), in Kaohsiung, Taiwan.
+- (2023.05) **Poster**: _Primordial Globular Cluster models could explain the relation between globular cluster number -- dark matter halo mass_, at The 2023 Scientific Assembly of the Astronomical Society of the Republic of China (ASROC2023), in Kaohsiung, Taiwan.
 
-- (2023.02) Poster: _Primordial Globular Cluster models could explain the globular cluster number --  halo mass relation_, at IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
+- (2023.02) **Poster**: _Primordial Globular Cluster models could explain the globular cluster number --  halo mass relation_, at IAU 377 Symposium: EARLY DISK-GALAXY FORMATION
 FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
 
-- (2020.01) Seminar: _Velocity correlation function: discrepancies between simulation and theory prediction_, at International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
+- (2020.01) **Seminar**: _Velocity correlation function: discrepancies between simulation and theory prediction_, at International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
 
-- (2019.12) Lunch talk: _Velocity correlation function: discrepancies between simulation and theory prediction_, at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan.
+- (2019.12) **Lunch talk**: _Velocity correlation function: discrepancies between simulation and theory prediction_, at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan.
 
-- (2019.08) Oral presentation: _Inflation via Higgs-Dilaton potential in Two-Time Physics_, at 15th Rencontres du Vietnam: Cosmology 2019, International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
+- (2019.08) **Talk**: _Inflation via Higgs-Dilaton potential in Two-Time Physics_, at 15th Rencontres du Vietnam: Cosmology 2019, International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam.
  
- - (2019.02) Poster presentation: _Inflation Scenarios via Dilaton in Two-Time Physics_, at 2019 Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Yukawa Institute for Theoretical Physics, Kyoto University, Japan.	
+ - (2019.02) **Poster**: _Inflation Scenarios via Dilaton in Two-Time Physics_, at 2019 Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Yukawa Institute for Theoretical Physics, Kyoto University, Japan.	
 
 ## CV
 More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
