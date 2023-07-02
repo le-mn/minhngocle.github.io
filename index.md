@@ -9,9 +9,9 @@ Vietnamese people call others by their first names, so feel free to call me _"Ng
 
 ## Where I am now
 
-I am currently at **Leiden Observatory**, the Netherlands! (from Jun to mid-Aug, 2023)
+I am currently at **Leiden Observatory**, the Netherlands! (from Jun to mid-Aug, 2023), involved in the [Leiden/ESA Astrophysics Program for Summer Students (LEAPS) 2023](https://leaps.strw.leidenuniv.nl/)
 
-I am here doing my internship on studying turbulence in molecular clouds, with Dr. Piyush Sharda and Dr. Mathilde Bouvier.
+I am here doing my internship project on studying turbulence in molecular clouds, with Dr. Piyush Sharda and Dr. Mathilde Bouvier.
 
 ## Research interests
 
