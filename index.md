@@ -6,7 +6,7 @@ I am a master's student in Astrophysics with research interests spanning from mo
 
 My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
-Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
+Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounce: _ŋok_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
 
 I know it's hard so I adopted a nickname: _"knock"_ (cute enough)!
 
