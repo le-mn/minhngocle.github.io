@@ -1,11 +1,14 @@
 # Hello, this is Ngọc!
 
-I am a master's student in Astrophysics.
+I am a master's student in Astrophysics with research interests spanning from molecular clouds to large-scale structures.
 
-My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my name as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
+## A little about me
+
+My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
 Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounce: _ŋok_, with _"ŋ"_ sounds as _"ng"_ in the word _"si**ng**"_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
 
+I know it's hard so I adopted a nickname: _"knock"_ (cute enough)!
 
 ## Where I am now
 
@@ -13,13 +16,9 @@ I am currently at **Leiden Observatory**, the Netherlands! (from Jun to mid-Aug,
 
 ## Research interests
 
-**The bright side**: 
+**The bright side**: I would like to find the answers to the birth of globular clusters and galaxies.
 
-I would like to find the answers to the birth of globular clusters and galaxies.
-
-**The dark side**: 
-
-I am very much interested in using the relationship between the bright side and the dark side (galaxy-halo connection) to study how our universe grows up.
+**The dark side**: I am very much interested in using the relationship between the bright side and the dark side (galaxy-halo connection) to study how our universe grows up.
 
 
 ## Research projects
