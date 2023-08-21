@@ -2,7 +2,7 @@
 
 I am a master's student in Astrophysics with research interests spanning from molecular clouds to large-scale structures.
 
-## A little about me
+## A little more about me
 
 My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
 
@@ -19,6 +19,8 @@ I am back at National Tsing Hua University, Taiwan, to continue my master's proj
 **The bright side**: I would like to find the answers to the birth of globular clusters and galaxies.
 
 **The dark side**: I am very much interested in using the relationship between the bright side and the dark side (galaxy-halo connection) to study how our universe grows up.
+
+It's so much fun doing research & learning new things! So I enjoy trying any new research topic :D
 
 
 ## Research projects
@@ -62,7 +64,7 @@ FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
  - (2019.02) **Poster**: _Inflation Scenarios via Dilaton in Two-Time Physics_, at 2019 Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Yukawa Institute for Theoretical Physics, Kyoto University, Japan.	
 
 ## CV
-More about my background study, academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
+More about my background study, and academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
 
 ## In my free time
 
