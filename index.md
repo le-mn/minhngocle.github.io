@@ -2,6 +2,15 @@
 
 I am a master's student in Astrophysics with research interests spanning from molecular clouds to large-scale structures.
 
+
+## Research interests
+
+**The bright side**: turbulence in molecular clouds & how it affects star formation, globular cluster formation, galaxy formation.
+
+**The dark side**: galaxy - dark matter halo connection
+
+It's so much fun doing research & learning new things! So I enjoy trying any new research topic :D
+
 ## A little more about me
 
 My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
@@ -13,15 +22,6 @@ I know it's hard so I adopted a nickname: _"knock"_ (cute enough)!
 ## Where I am now
 
 I am back at National Tsing Hua University, Taiwan, to continue my master's project, after spending my summer in the Netherlands!
-
-## Research interests
-
-**The bright side**: turbulence in molecular clouds & how it affects star formation, globular cluster formation, galaxy formation.
-
-**The dark side**: galaxy - dark matter halo connection
-
-It's so much fun doing research & learning new things! So I enjoy trying any new research topic :D
-
 
 ## Research projects
 
