@@ -15,7 +15,7 @@ It's so much fun doing research & learning new things! So I enjoy trying any new
 
 ## Research projects
 
-- This summer (from Jun to mid-Aug, 2023), at **Leiden Observatory** the Netherlands, I was involved in the [Leiden/ESA Astrophysics Program for Summer Students (LEAPS) 2023](https://leaps.strw.leidenuniv.nl/). With Dr. Piyush Sharda and Dr. Mathilde Bouvier, we quantify turbulence in the molecular cloud N55 in LMC. Within the scope of the 10-week internship, we got the results for turbulence mode in N55, assuming LTE conditions. We are extending the work for non-LTE conditions (stay tuned for the results)!
+- This summer (from Jun to mid-Aug, 2023), at **Leiden Observatory** the Netherlands, I was involved in the [Leiden/ESA Astrophysics Program for Summer Students (LEAPS) 2023](https://leaps.strw.leidenuniv.nl/). With Dr. Piyush Sharda, Dr. Mathilde Bouvier, and Prof. Serena Viti, we **quantify turbulence in the molecular cloud N55** in LMC. Within the scope of the 10-week internship, we got the results for turbulence mode in N55, assuming LTE conditions. We are extending the work for non-LTE conditions (stay tuned for the results)!
 
 - I am working on my master's project with Dr. Andrew Cooper about _primordial globular cluster_ formation. The primordial GC formation hypothesis was introduced by Peeble (1984), which states that GC can form inside its own dark matter (DM) halo. To study that, we use the extended Press-Schechter method (code from Parkinson et al. 2008) and input the modeling conditions of primordial GCs formation. We can reproduce the relationship between the number of GCs and DM halo mass, which agrees with observational results on low-mass halos.
   
