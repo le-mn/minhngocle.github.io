@@ -11,17 +11,7 @@ I am a master's student in Astrophysics with research interests spanning from mo
 
 It's so much fun doing research & learning new things! So I enjoy trying any new research topic :D
 
-## A little more about me
 
-My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
-
-Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounced: _ŋok_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
-
-I know it's hard so I adopted a nickname: _"knock"_ (cute enough)!
-
-## Where I am now
-
-I am back at National Tsing Hua University, Taiwan, to continue my master's project, after spending my summer in the Netherlands!
 
 ## Research projects
 
@@ -65,6 +55,18 @@ FROM JWST TO THE MILKY WAY in Kuala Lumpur, Malaysia.
 
 ## CV
 More about my background study, and academic activities (schools, workshops, conferences,...) can be found in [my CV](Minh_Ngoc_LE_CV.pdf)
+
+## A little more about me
+
+My full name in Vietnamese is **Lê Minh Ngọc** (last + middle + first). Somehow they don't let me board the airplane so I need to write my first name in the middle, as _Minh Ngoc Le_ (middle + first + last) to get my flight tickets.
+
+Vietnamese people call others by their first names, so feel free to call me _"Ngoc"_ (pronounced: _ŋok_). You can find how to pronounce it [here](https://forvo.com/user/ngocle0915/). 
+
+I know it's hard so I adopted a nickname: _"knock"_ (cute enough)!
+
+## Where I am now
+
+I am back at National Tsing Hua University, Taiwan, to continue my master's project, after spending my summer in the Netherlands!
 
 ## In my free time
 
