@@ -25,10 +25,6 @@ FROM JWST TO THE MILKY WAY](https://www.mso.anu.edu.au/~yting/Malaysia_IAU/). Yo
 ![Image](m15-closer.jpg)
 
 The image above shows an old, beautiful GC named Messier 15, which is one of the oldest known GCs. (Image Credit: ESA/Hubble & NASA).
-| Cat pics                     | Dog pics               |
-| ---------------------------- | ---------------------------- |
-| ![Image](How can we see.png) | ![Image](How can we see.png) |
-
 
 - Alongside GC, I am in love with the dark components of the universe. In spite of no detection (that's why they named _"dark"_), they are proven to be dominant components of our universe. _Dark Energy_ contributes to the expansion of the universe and _Dark Matter_ gravitationally interacts with baryonic matter to form the structure we see nowadays. I did an intern project at ASIAA, Taiwan with Dr. Teppei Okumura and Dr. Aniket Agarwal on calculating DM halos correlation functions, using a mock catalog.  By doing that project, I wrote my own code to calculate the correlation function in Fortran.
 
