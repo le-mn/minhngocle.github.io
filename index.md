@@ -5,7 +5,7 @@ I am a master's student in Astrophysics with research interests spanning from mo
 
 ## Research interests
 
-**The bright side**: turbulence in molecular clouds & how it affects star formation, globular cluster formation, galaxy formation.
+**The bright side**: turbulence in molecular clouds & how it affects star formation, globular cluster formation, using globular clusters to study the accretion history of galaxy.
 
 **The dark side**: galaxy - dark matter halo connection
 
