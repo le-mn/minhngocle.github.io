@@ -6,9 +6,11 @@ I am a master's student in Astrophysics with research interests spanning from mo
 
 ## Research interests
 
-The BRIGHT side: **turbulence in molecular clouds** & how it affects star formation, **globular cluster formation**, using globular clusters to study the **accretion history of galaxy**.
+Parsec-scale: **turbulence in molecular clouds** & how it affects star formation, **globular cluster formation**
 
-The DARK side: galaxy - dark matter halo connection
+Kiloparsec-scale: using globular clusters to study the **accretion history of galaxy**.
+
+Megaparsec-scale: galaxy - dark matter halo connection
 
 It's so much fun doing research & learning new things! So I enjoy trying any new research topic :D
 
